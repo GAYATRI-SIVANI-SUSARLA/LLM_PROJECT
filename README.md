@@ -15,6 +15,7 @@ original from machine-generated text.
 ![Roadmap](https://github.com/GAYATRI-SIVANI-SUSARLA/LLM_PROJECT/blob/main/photos/Screenshot%202025-05-29%20121948.png)
 ## Methods
 ### Watermark Technique
+![watermark photo](https://github.com/GAYATRI-SIVANI-SUSARLA/LLM_PROJECT/blob/main/photos/Screenshot%202025-05-29%20125209.png)
 - Greenlist tokens - A Subset of tokens is selected based on pseudo random function
 - Statistical Detection - Measure frequency of the tokens, higher than expected frequency indicate the presence of a watermark, the watermark can be detected with high confidence as few as 25 tokens.
 - The watermark method does not degrade text quality
